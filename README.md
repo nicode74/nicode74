@@ -105,8 +105,8 @@ Here is a list of languages, frameworks, and tools that I have either successful
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicode74&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="nicode74's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicode74&layout=compact&theme=radical&hide_border=true" alt="nicode74's Top Languages" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=nicode74&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="nicode74's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nicode74&layout=compact&theme=radical&hide_border=true" alt="nicode74's Top Languages" height="150" />
 </p>
 
 ---
