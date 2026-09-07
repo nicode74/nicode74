@@ -1,7 +1,7 @@
-# Hey there, I'm Nicolas! 👋 (a.k.a nicode74)
+# Sup?
 
 <p align="center">
-  <img src="github_banner.png" alt="nicode74 banner" width="100%" />
+  <img src="long-banner.png" alt="nicode74 banner" width="100%" />
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
 ---
 
 ### 🧠 "To be honest, I don't know what I'm doing, but I know that I did some things."
+
 I am an **Informatics Student** at **Amikom Yogyakarta University**. I'm currently figuring out my life, expecting plenty of mistakes, and collecting lessons along the way. I spend my time exploring different technologies, writing code, and breaking it (often at the same time).
 
 ---
@@ -22,6 +23,7 @@ I am an **Informatics Student** at **Amikom Yogyakarta University**. I'm current
 Here is a list of languages, frameworks, and tools that I have either successfully built things with, or at least stared at until they compiled.
 
 ### 📱 Mobile Development
+
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
@@ -30,6 +32,7 @@ Here is a list of languages, frameworks, and tools that I have either successful
 </p>
 
 ### 🌐 Web Development
+
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -41,18 +44,21 @@ Here is a list of languages, frameworks, and tools that I have either successful
 </p>
 
 ### 🐍 Machine Learning & Data
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Machine_Learning-%23008080.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
 </p>
 
 ### 🔌 Networking
+
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/MikroTik-%23000000.svg?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
 </p>
 
 ### ⚙️ OS & Core Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -61,37 +67,10 @@ Here is a list of languages, frameworks, and tools that I have either successful
 
 ---
 
-## 🚀 Successful Accidents (My Projects & Journey)
-
-<details>
-  <summary><b>📱 Mobile Experiments</b></summary>
-  <br/>
-  Building Flutter and native Android apps has been an adventure. I write Dart/Kotlin, hit run, watch the Gradle build fail, search StackOverflow, hit run again, and then... magic! It runs (mostly).
-</details>
-
-<details>
-  <summary><b>🌐 Web Projects</b></summary>
-  <br/>
-  Messing around with Laravel and Next.js. I love Tailwind CSS because it makes my questionable design choices look like deliberate modern art.
-</details>
-
-<details>
-  <summary><b>🔌 Network Configurations</b></summary>
-  <br/>
-  If packets are flowing through Cisco or MikroTik routers, I consider that a win. Ping works = my job is done here.
-</details>
-
-<details>
-  <summary><b>🤖 Machine Learning</b></summary>
-  <br/>
-  I feed datasets to Python libraries, run some code, and hope the computer understands what to do. It's basically magic at this point.
-</details>
-
----
-
 ## 📊 My Highly Scientific Stats
 
 ### 📅 Daily Routine & Progress
+
 - **Coffee Consumption** ☕  
   `████████████████████ 100%`
 - **Figuring Out My Life** 🗺️  
@@ -104,6 +83,7 @@ Here is a list of languages, frameworks, and tools that I have either successful
   `███████████████░░░░░ 75%`
 
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=nicode74&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="nicode74's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nicode74&layout=compact&theme=radical&hide_border=true" alt="nicode74's Top Languages" height="150" />
@@ -116,29 +96,28 @@ Here is a list of languages, frameworks, and tools that I have either successful
 - 📧 Email: **[nicolast.nicolast.74@gmail.com](mailto:nicolast.nicolast.74@gmail.com)**
 - 🏫 University: **[Amikom Yogyakarta University](https://amikom.ac.id/)**
 
-*P.S. If you see a bug in any of my repositories, no you didn't. It's an undocumented feature.* 😉
+_P.S. If you see a bug in any of my repositories, no you didn't. It's an undocumented feature._ 😉
 
-*P.S. I don't believe in Clean Code, I believe in working code.*
+_P.S. I don't believe in Clean Code, I believe in working code._
 
-*P.S. I'm out here making beeg miss steak*
+_P.S. I'm out here making beeg miss steak_
 
-*P.S. You can find my beeg miss steak repository here: [Beeg Miss Steak](https://github.com/nicode74/beegmisssteak)*
+_P.S. You can find my beeg miss steak repository here: [Beeg Miss Steak](https://github.com/nicode74/beegmisssteak)_
 
-*P.S. I love Flutter*
+_P.S. I love Flutter_
 
-*P.S. I have a crush on Gemini 2.0 Flash*
+_P.S. I have a crush on Gemini 2.0 Flash_
 
-*P.S. I'm about to larp as a backend dev*
+_P.S. I'm about to larp as a backend dev_
 
-*P.S. Send help*
+_P.S. Send help_
 
-*P.S. Give me a job where I don't have to do anything but still getting paid*
+_P.S. Give me a job where I don't have to do anything but still getting paid_
 
-*P.S. Send me money*
+_P.S. Send me money_
 
-*P.S. That's a lot of post scriptum*
+_P.S. That's a lot of post scriptum_
 
-*P.S. I'm running out of ideas for post scriptum*
+_P.S. I'm running out of ideas for post scriptum_
 
-*P.S. I need to stop procrastinating and actually start doing my assignments*
-
+_P.S. I need to stop procrastinating and actually start doing my assignments_
