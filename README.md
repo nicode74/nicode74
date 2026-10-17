@@ -82,9 +82,9 @@ Here is a list of languages, frameworks, and tools that I have either successful
 - **Staring at compiler errors in Linux** 🐧  
   `███████████████░░░░░ 75%`
 - **Playing Ornn Top Lane** 🐐️
-  `███████████████░░░░░ 75%`
+`███████████████░░░░░ 75%`
 - **Crashing Out** 💀️
-  `████████████████████ 100%`
+`████████████████████ 100%`
 
 ### 📈 GitHub Stats
 
